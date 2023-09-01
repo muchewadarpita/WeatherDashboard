@@ -1,4 +1,14 @@
+
+
+
+
 # Getting Started with Create React App
+
+
+
+
+![2](https://github.com/muchewadarpita/WeatherDashboard/assets/96560427/e55fc072-dff6-4505-8ace-c40b72be4153)
+![1](https://github.com/muchewadarpita/WeatherDashboard/assets/96560427/2f4a6047-99fa-405f-be95-8beb5d3eb7ab)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
